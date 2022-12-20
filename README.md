@@ -1,1 +1,1 @@
-ii
+python is cool
